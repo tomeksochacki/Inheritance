@@ -18,6 +18,7 @@ public class Monster {
     public Monster(double speedMove, double hitPoint){
         this.speedMove = speedMove;
         this.hitPoint = hitPoint;
+
         System.out.println("Not default constructor from the class Monster.");
 
     }
